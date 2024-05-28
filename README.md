@@ -4,10 +4,14 @@
 
 # En proceso de correcion.
 
-## About Me :
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<br>
 
 - 🎓 Student of programming technicature at [UTN FRA](https://fra.utn.edu.ar/)
 - 🏡 I live in **Argentina**.
+  
+<br><br>
+
 
 <br>
 
