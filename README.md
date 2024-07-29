@@ -1,6 +1,6 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Nazareno</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=28&center=true&vCenter=true&width=600&height=100&lines=¡Bienvenido+a+mi+perfil!;Estudiante+de+Programación;Desarrollador+Backend+Autodidacta;Amo+los+Gatos+<3;Hincha+de+River+Plate...+&hearts;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=28&center=true&vCenter=true&width=600&height=100&lines=¡Bienvenido+a+mi+perfil!;Estudiante+de+Programación;Autodidacta+del+Desarrollo+en+C-sharp;Amo+los+Gatos+<3;Hincha+de+River+Plate...+&hearts;"></a>
 </p>
 
 <br>
@@ -31,19 +31,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
-<br>
-
-### **Alojamiento en la Nube**
-![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://github.com/user-attachments/assets/e593a6e4-d2f1-456c-b3db-cf99384527ea)
+![Visual Studio Code](https://github.com/user-attachments/assets/0065c03c-3fa9-42d7-8a9d-c16045350a60)
 
 <br>
 
 ### **Extras**
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 </p>
 
