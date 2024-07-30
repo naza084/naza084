@@ -5,10 +5,11 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Sobre mí**
+## <picture><img src="https://github.com/user-attachments/assets/102e3925-1b01-4b3b-8ed1-0f1c29d24364" width="50px"></picture> **Sobre mí**
+
 <br>
 
-- 🎓 Estudiante de Programación en la Universidad Tecnológica Nacional de Avellaneda ([UTN FRA](https://fra.utn.edu.ar/))
+- 🎓 Estudiante en Programación en la Universidad Tecnológica Nacional de Avellaneda ([UTN FRA](https://fra.utn.edu.ar/))
 - 👨‍💻 Estudiante autodidacta del desarrollo en C#
 - 🏡 Residiendo actualmente en **Argentina**
 
