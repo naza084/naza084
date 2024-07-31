@@ -1,16 +1,16 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Nazareno</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=28&center=true&vCenter=true&width=600&height=100&lines=¡Bienvenido+a+mi+perfil!;Estudiante+de+Programación;Autodidacta+del+Desarrollo+en+C-sharp;Amo+los+Gatos+<3;Hincha+de+River+Plate...+&hearts;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=28&center=true&vCenter=true&width=600&height=100&lines=¡Bienvenido+a+mi+perfil!;Estudiante+de+Programación;Autodidacta+del+Desarrollo+en+.NET+;Amo+los+Gatos+<3;Hincha+de+River+Plate...+&hearts;"></a>
 </p>
 
 <br>
 
-## <picture><img src="https://github.com/user-attachments/assets/102e3925-1b01-4b3b-8ed1-0f1c29d24364" width="50px"></picture> **Sobre mí**
+## <picture><img src="https://github.com/user-attachments/assets/102e3925-1b01-4b3b-8ed1-0f1c29d24364" width="50px"></picture> <b>Sobre mí</b>
 
 <br>
 
 - 🎓 Estudiante en Programación en la Universidad Tecnológica Nacional de Avellaneda ([UTN FRA](https://fra.utn.edu.ar/))
-- 👨‍💻 Estudiante autodidacta del desarrollo en C#
+- 👨‍💻 Actualmente estudiando C# de forma autodidacta.
 - 🏡 Residiendo actualmente en **Argentina**
 
 <br><br>
@@ -50,7 +50,7 @@
 
 <br>
 
-## <b>Conectemos</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+## <b>Contactos</b>
 <br>
 <div align='left'>
 <ul>
