@@ -9,7 +9,7 @@
 
 <br>
 
-- 🎓 Estudiante en Programación en la Universidad Tecnológica Nacional de Avellaneda ([UTN FRA](https://fra.utn.edu.ar/))
+- 🎓 Estudiante de Programación en la Universidad Tecnológica Nacional de Avellaneda ([UTN FRA](https://fra.utn.edu.ar/))
 - 👨‍💻 Actualmente estudiando C# de forma autodidacta.
 - 🏡 Residiendo actualmente en **Argentina**
 
@@ -23,7 +23,13 @@
 <p align="center">
 
 ### **Lenguajes**
+
+#### **Principal:**
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
+<br>
+
+#### **Complementarios:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
@@ -31,9 +37,9 @@
 ### **Software y Herramientas**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Visual Studio](https://github.com/user-attachments/assets/e593a6e4-d2f1-456c-b3db-cf99384527ea)
 ![Visual Studio Code](https://github.com/user-attachments/assets/0065c03c-3fa9-42d7-8a9d-c16045350a60)
+![Apache Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 
 <br>
 
