@@ -9,9 +9,10 @@
 
 <br>
 
-- 🎓 Estudiante de Programación en la Universidad Tecnológica Nacional de Avellaneda ([UTN FRA](https://fra.utn.edu.ar/))
+- 🎓 Estudiante de Programación en la Universidad Tecnológica Nacional de Avellaneda ([UTN FRA](https://fra.utn.edu.ar/)).
 - 👨‍💻 Actualmente estudiando C# de forma autodidacta.
-- 🏡 Residiendo actualmente en **Argentina**
+- 💻 Enfocado en el Desarrollo Backend .NET.
+- 🏡 Residiendo actualmente en **Argentina**.
 
 <br><br>
 
@@ -36,7 +37,6 @@
 
 ### **Software y Herramientas**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://github.com/user-attachments/assets/e593a6e4-d2f1-456c-b3db-cf99384527ea)
 ![Visual Studio Code](https://github.com/user-attachments/assets/0065c03c-3fa9-42d7-8a9d-c16045350a60)
 ![Apache Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
