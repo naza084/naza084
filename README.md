@@ -1,6 +1,6 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Nazareno</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=28&center=true&vCenter=true&width=600&height=100&lines=¡Bienvenido+a+mi+perfil!;Estudiante+de+Programación;Autodidacta+del+Desarrollo+en+.NET+;Amo+los+Gatos+<3;Hincha+de+River+Plate...+&hearts;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=28&center=true&vCenter=true&width=600&height=100&lines=¡Bienvenido+a+mi+perfil!;Estudiante+de+Programación;Aspirante+del+Desarrollo+Backend+;I+love+gatitos+<3;"></a>
 </p>
 
 <br>
@@ -26,27 +26,40 @@
 ### **Lenguajes**
 
 #### **Principal:**
-![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
+<img src="https://github.com/user-attachments/assets/9e0f4917-5331-4bc1-a39a-302d23421a08" alt="C-sharp" width="45">
+
 <br>
 
 #### **Complementarios:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45">
+</div>
 
 <br>
 
-### **Software y Herramientas**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://github.com/user-attachments/assets/e593a6e4-d2f1-456c-b3db-cf99384527ea)
-![Visual Studio Code](https://github.com/user-attachments/assets/0065c03c-3fa9-42d7-8a9d-c16045350a60)
-![Apache Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
+### **Software y Herramientas:**
+<div style="display: flex; justify-content: center; align-items: center; gap: 95px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="45">
+  <img width="8" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="45">
+  <img width="8" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="45">
+  <img width="8" />
+  <img src="https://github.com/user-attachments/assets/8b09d923-730d-43e0-a869-d4ba9ceec30f" alt="Apache Netbeans" width="45">
+  <img width="8" />
+</div>
 
 <br>
 
-### **Extras**
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+### **Extras:**
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello" width="45">
+  <img width="8" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" alt="Notion" width="45">
+  <img width="8" />
+</div>
+
 
 </p>
 
