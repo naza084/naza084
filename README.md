@@ -23,15 +23,9 @@
 
 <p align="center">
 
-### **Lenguajes**
-
-#### **Principal:**
-<img src="https://github.com/user-attachments/assets/9e0f4917-5331-4bc1-a39a-302d23421a08" alt="C-sharp" width="45">
-
-<br>
-
-#### **Complementarios:**
+### **Lenguaje**
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="https://github.com/user-attachments/assets/9e0f4917-5331-4bc1-a39a-302d23421a08" alt="C-sharp" width="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45">
 </div>
